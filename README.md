@@ -1,5 +1,5 @@
 
-<body>
+
     <h1>Cats and Dogs Classifier</h1>
     <p>This project implements a deep learning model to classify images of cats and dogs using TensorFlow and Keras.</p>
 
@@ -60,4 +60,4 @@
 
     <h2 id="usage">Usage</h2>
     <p>To use the model, load the trained weights and pass an image through the model to get predictions. The model can classify images as either a cat or a dog.</p>
-</body>
+
